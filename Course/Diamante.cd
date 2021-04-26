@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Course.Entities.Device">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Device.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.Entities.Scanner">
+    <Position X="9" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Scanner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.Entities.Printer">
+    <Position X="9.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Entities\Printer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Course.Devices.IPrinter">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Devices\IPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Course.Devices.IScanner">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Devices\IScanner.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Fire Code" Size="10" />
+</ClassDiagram>
